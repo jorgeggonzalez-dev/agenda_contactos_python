@@ -19,4 +19,3 @@ Este es un sistema interactivo basado en consola desarrollado en Python que simu
 
 * **Lenguaje:** Python 3
 * **Estructuras de Datos:** Diccionarios nativos (`dict`) para optimizar el almacenamiento llave-valor y operaciones en tiempo constante $O(1)$.
-*
